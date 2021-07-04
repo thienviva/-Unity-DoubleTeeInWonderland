@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2a7a867c365e07044b29bb51c692656b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gamewin: {instanceID: 0}
+  - GM: {instanceID: 0}
+  - Score_text: {instanceID: 0}
+  - aus: {instanceID: 0}
+  - menu: {instanceID: 0}
+  - quit: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
